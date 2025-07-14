@@ -1,3 +1,2 @@
 # Common-Verilog-Modules
-Here are the modules I encountered when I started learning Verilog. 
-They are provided for beginners to study and refer to.
+以下是我在开始学习 Verilog 时遇到的一些模块。这些模块旨在供初学者学习和参考。
